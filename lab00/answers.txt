@@ -1,4 +1,14 @@
-1.find, locate, grep
-2.ps,jobs
-3. kill
-4. cmp or diff
+1. mv source destnation
+2. chmod
+3.pwd
+4. host
+5. find, grep, locate
+6. ps,jobs
+7. kill
+8. cmp,diff
+total 24
+drwxr-xr-x   5 jojo  staff  160 Dec 29 21:36 .
+drwxr-xr-x  18 jojo  staff  576 Dec 29 20:37 ..
+-rw-r--r--   1 jojo  staff  100 Dec 29 21:36 answers.txt
+-rwxr-xr-x   1 jojo  staff  142 Dec 29 20:37 copy_git.sh
+-rw-r--r--   1 jojo  staff  239 Dec 29 20:37 first_set.txt
