@@ -1,4 +1,4 @@
-1.
-2.
-3.
-4.
+1.find, locate, grep
+2.ps,jobs
+3. kill
+4. cmp or diff
